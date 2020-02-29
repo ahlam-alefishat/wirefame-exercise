@@ -1,0 +1,103 @@
+body{
+    
+    margin-left: auto;
+    margin-right:auto;
+    width: 1200px;
+}
+
+header{
+    background-color:#424141;
+    height: 90px;
+    margin-bottom: 30px;
+}
+ 
+header img{
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+nav{
+    display: inline;
+    margin-left: 40px;
+    position: absolute;
+
+}
+header nav ul{
+    padding-top: 30px;
+}
+
+nav ul li  {
+    display: inline;
+    padding-left: 10px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    padding: 50px;
+    color:rgb(161, 159, 159);
+    padding-top: 30px;
+
+}
+div {
+    margin-left: 125px;
+    margin-bottom: 30px;
+}
+
+div sub {
+    padding-left:30px; 
+    
+}
+section{
+    margin-left: 50px;
+    margin-bottom: 30px;
+    padding-right: 0px;
+}
+section nav{
+    position:relative;
+    float:left;  
+}
+section nav img{
+    padding-left: 35px;
+}
+section p {
+    margin-left: 350px;
+    padding-left: 90px;
+    
+    overflow: scroll;
+    height: 360px;
+   width:450px
+    
+    
+    
+}
+h3{
+    font-size: larger;
+}
+
+ button {
+    color: white;
+    width: 140px;
+   height: 40px;
+    background-color: black;
+    border-radius: 5px;
+    margin-top: 5px;
+    text-align: center;
+    padding-left: 20px;
+    margin-left: 40px;
+    opacity: 0.6;
+  transition: 0.350s;
+    
+
+ }
+.btn:hover {opacity: 1}
+
+ footer{
+    
+    margin-bottom: 30px;
+    background-color:#424141;
+    height: 90px;
+    
+
+ }
+    
